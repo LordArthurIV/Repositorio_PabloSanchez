@@ -1,4 +1,4 @@
           # Información
           Este es el resultado de mi esfuerzo aprendiendo GIT
           
-          Actividad Evaluable modificada desde GitHub por Pablo Sánchez García.
+          Actividad Evaluable modificada desde GitHub por Pablo Sánchez García
